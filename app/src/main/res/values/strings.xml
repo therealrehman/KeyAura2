@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KeyAura</string>
+    <string name="keyboard_name">KeyAura - Colored Animated Keyboard</string>
+    <string name="enable_keyboard">Enable Keyboard</string>
+    <string name="choose_keyboard">Choose Keyboard</string>
+    <string name="about">About</string>
+    <string name="about_title">About KeyAura</string>
+</resources>
